@@ -6,11 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Cucumber5thand4thGroup2025" />
         <module name="Cucumber5thGroup2025ZN" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="Cucumber5thGroup2025ZN" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
